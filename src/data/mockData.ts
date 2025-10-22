@@ -5,7 +5,7 @@ export const mockProducts: Product[] = [
     id: 1,
     name: "Ahşap Masa 70x70",
     price: 2000,
-    image: "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.55.jpeg",
+    image: "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-1.jpeg",
     description: "Kompakt alanlar için ideal olan 70x70 cm beyaz ahşap masa. Kaliteli tabla ve sağlam ayak yapısı ile uzun ömürlü kullanım sunar.",
     category: "yemek",
     inStock: true
@@ -257,7 +257,7 @@ export const mockProducts: Product[] = [
     id: 29,
     name: "Victor Sandalye - Seri 2",
     price: 1500,
-    image: "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (1).jpeg",
+    image: "VictorSandalye1250tl/victor-sandalye-1.jpeg",
     description: "Şık çizgilere sahip Victor sandalye, geniş oturum alanı ve metal ayak yapısı ile ofis ve salonlar için zarif bir seçenek sunar.",
     category: "ofis",
     inStock: true
@@ -266,7 +266,7 @@ export const mockProducts: Product[] = [
     id: 30,
     name: "Victor Sandalye - Seri 3",
     price: 1550,
-    image: "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (2).jpeg",
+    image: "VictorSandalye1250tl/victor-sandalye-1.jpeg",
     description: "Şık çizgilere sahip Victor sandalye, geniş oturum alanı ve metal ayak yapısı ile ofis ve salonlar için zarif bir seçenek sunar.",
     category: "ofis",
     inStock: true
