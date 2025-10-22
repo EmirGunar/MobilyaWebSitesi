@@ -205,7 +205,7 @@ const SlideImage = styled.img`
   z-index: 1;
   width: clamp(240px, 28vw, 360px);
   height: clamp(220px, 30vw, 420px);
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 24px;
   box-shadow: 0 25px 50px rgba(32, 23, 14, 0.35);
   border: 1px solid rgba(255, 255, 255, 0.25);
@@ -214,6 +214,7 @@ const SlideImage = styled.img`
   @media (max-width: 900px) {
     width: clamp(220px, 60vw, 320px);
     height: clamp(200px, 58vw, 340px);
+    object-fit: contain;
   }
 `;
 

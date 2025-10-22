@@ -44,6 +44,34 @@ const ImageSection = styled.div`
   gap: 1rem;
 `;
 
+const ImageGallery = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+`;
+
+const ThumbnailContainer = styled.div`
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  padding: 0.5rem 0;
+`;
+
+const Thumbnail = styled.img<{ active: boolean }>`
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 2px solid ${props => props.active ? '#3498db' : 'transparent'};
+  opacity: ${props => props.active ? 1 : 0.7};
+  transition: opacity 0.3s ease, border-color 0.3s ease;
+
+  &:hover {
+    opacity: 1;
+  }
+`;
+
 const MainImage = styled.img`
   width: 100%;
   aspect-ratio: 4 / 3;
@@ -196,6 +224,7 @@ const ProductDetailPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   const { addToCart } = useCart();
   const [quantity, setQuantity] = useState(1);
+  const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   
   const product = mockProducts.find(p => p.id === Number(id));
 
@@ -231,10 +260,25 @@ const ProductDetailPage: React.FC = () => {
 
       <ProductContainer>
         <ImageSection>
-          <MainImage
-            src={buildImageUrl(product.image)}
-            alt={product.name}
-          />
+          <ImageGallery>
+            <MainImage
+              src={buildImageUrl(product.images?.[selectedImageIndex] || product.image)}
+              alt={product.name}
+            />
+            {product.images && product.images.length > 1 && (
+              <ThumbnailContainer>
+                {product.images.map((image, index) => (
+                  <Thumbnail
+                    key={index}
+                    src={buildImageUrl(image)}
+                    alt={`${product.name} - Fotoğraf ${index + 1}`}
+                    active={selectedImageIndex === index}
+                    onClick={() => setSelectedImageIndex(index)}
+                  />
+                ))}
+              </ThumbnailContainer>
+            )}
+          </ImageGallery>
         </ImageSection>
 
         <ProductInfo>
