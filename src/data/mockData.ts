@@ -122,7 +122,7 @@ export const mockProducts: Product[] = [
     id: 14,
     name: "Ahşap Masa 70x70 - Seri 3",
     price: 2100,
-    image: "AhşapMasa70*70 1500TL 70*120 2bin tl AhşapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.56 (2).jpeg",
+    image: "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.56 (2).jpeg",
     description: "Kompakt alanlar için ideal olan 70x70 cm beyaz ahşap masa. Kaliteli tabla ve sağlam ayak yapısı ile uzun ömürlü kullanım sunar.",
     category: "yemek",
     inStock: true
@@ -311,7 +311,7 @@ export const mockProducts: Product[] = [
     id: 35,
     name: "Ahşap Masa 70x120 - Seri 2",
     price: 2550,
-    image: "AhşapMasa70*70 1500TL 70*120 2bin tl AhşapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.56.jpeg",
+    image: "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.56.jpeg",
     description: "Geniş aile sofraları için 70x120 cm ahşap masa. Ekstra alan sağlayan tabla yapısı ve dayanıklı çerçevesiyle kafe ve evler için ideal.",
     category: "yemek",
     inStock: true
@@ -320,7 +320,7 @@ export const mockProducts: Product[] = [
     id: 36,
     name: "Ahşap Masa 70x120 - Seri 3",
     price: 2600,
-    image: "AhşapMasa70*70 1500TL 70*120 2bin tl AhşapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.56 (1).jpeg",
+    image: "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.56 (1).jpeg",
     description: "Geniş aile sofraları için 70x120 cm ahşap masa. Ekstra alan sağlayan tabla yapısı ve dayanıklı çerçevesiyle kafe ve evler için ideal.",
     category: "yemek",
     inStock: true
