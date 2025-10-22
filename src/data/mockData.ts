@@ -77,7 +77,7 @@ export const mockProducts: Product[] = [
     id: 9,
     name: "Victor Sandalye",
     price: 1450,
-    image: "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.46.jpeg",
+    image: "VictorSandalye1250tl/victor-sandalye-1.jpeg",
     description: "Şık çizgilere sahip Victor sandalye, geniş oturum alanı ve metal ayak yapısı ile ofis ve salonlar için zarif bir seçenek sunar.",
     category: "ofis",
     inStock: true
