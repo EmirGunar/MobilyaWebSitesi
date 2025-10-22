@@ -11,5 +11,10 @@ export const buildImageUrl = (relativePath?: string): string => {
     .map(segment => encodeURIComponent(segment))
     .join('/');
 
+  // Production'da absolute path kullan
+  if (process.env.NODE_ENV === 'production') {
+    return `/${encodedPath}`;
+  }
+
   return `${process.env.PUBLIC_URL}/${encodedPath}`;
 };
