@@ -95,7 +95,7 @@ export const mockProducts: Product[] = [
     id: 11,
     name: "Dış Mekan Kompakt Masa",
     price: 3500,
-    image: "arsel-logo.svg",
+    image: "arsellogo.jpg",
     description: "Kompakt HPL tabla yapısına sahip, 70x70 cm ölçüsü ile başlayan dış mekan masası. 70x120 cm modeli 4500 TL olup kafe ve restoranlar için idealdir.",
     category: "bahce",
     inStock: true
