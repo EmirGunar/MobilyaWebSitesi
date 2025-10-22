@@ -1,0 +1,145 @@
+// AUTO-GENERATED FILE. Do not edit manually.
+export const imagesManifest: Record<string, string[]> = {
+  "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok": [
+    "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.55.jpeg",
+    "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-1.jpeg",
+    "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-2.jpeg",
+    "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-3.jpeg"
+  ],
+  "CompactMasa": [
+    "CompactMasa/compactmasa.webp"
+  ],
+  "CompactMasaIkili": [
+    "CompactMasaIkili/compactmasaikili.jpg"
+  ],
+  "CosmoSandalye1550tl": [
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.52 (2).jpeg",
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.52.jpeg",
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.53 (1).jpeg",
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.53 (2).jpeg",
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.53 (3).jpeg",
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.53.jpeg",
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.54 (1).jpeg",
+    "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.54.jpeg",
+    "CosmoSandalye1550tl/cosmo-sandalye-1.jpeg"
+  ],
+  "ÇekmeceliOkeyMasası 4400Tl": [
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.40 (1).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.40 (2).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.40 (3).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.40.jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.41 (1).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.41 (2).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.41 (3).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.41.jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.42 (1).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.42 (2).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.42 (3).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.42.jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.43.jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.44 (1).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.44 (2).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.44 (3).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.44.jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.45 (1).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.45 (2).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.45 (3).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.45 (4).jpeg",
+    "ÇekmeceliOkeyMasası 4400Tl/WhatsApp Image 2025-10-16 at 14.14.45.jpeg"
+  ],
+  "DışMekanPetrolPlastik900": [
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.23 (1).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.23.jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.24 (1).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.24 (2).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.24 (3).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.24.jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.25 (1).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.25 (2).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.25 (3).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.25 (4).jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.25.jpeg",
+    "DışMekanPetrolPlastik900/WhatsApp Image 2025-10-16 at 14.32.26.jpeg"
+  ],
+  "ElmaSandalye750Tl": [
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.40.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.41 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.41 (2).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.41.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.42 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.42 (2).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.42.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.43 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.43 (2).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.43.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.44 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.44.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.45 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.45.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.46 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.46 (2).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.46 (3).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.46 (4).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.46.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.47 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.47 (2).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.47 (3).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.47.jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.48 (1).jpeg",
+    "ElmaSandalye750Tl/WhatsApp Image 2025-10-16 at 14.15.48.jpeg"
+  ],
+  "ErgoSandalye1250Tl": [
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.02 (1).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.02.jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.03 (1).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.03 (2).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.03 (3).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.03.jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.04.jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.05 (1).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.05 (2).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.05 (3).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.05.jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.06 (1).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.06 (2).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.06 (3).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.06.jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.07 (1).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.07 (2).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.07 (3).jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.07.jpeg",
+    "ErgoSandalye1250Tl/WhatsApp Image 2025-10-16 at 14.19.08.jpeg"
+  ],
+  "KolluElma1000tl": [
+    "KolluElma1000tl/WhatsApp Image 2025-10-16 at 14.18.38 (1).jpeg",
+    "KolluElma1000tl/WhatsApp Image 2025-10-16 at 14.18.38 (2).jpeg",
+    "KolluElma1000tl/WhatsApp Image 2025-10-16 at 14.18.38.jpeg",
+    "KolluElma1000tl/WhatsApp Image 2025-10-16 at 14.18.39 (1).jpeg",
+    "KolluElma1000tl/WhatsApp Image 2025-10-16 at 14.18.39 (2).jpeg",
+    "KolluElma1000tl/WhatsApp Image 2025-10-16 at 14.18.39 (3).jpeg",
+    "KolluElma1000tl/WhatsApp Image 2025-10-16 at 14.18.39.jpeg"
+  ],
+  "StarbucksSandalye2000": [
+    "StarbucksSandalye2000/WhatsApp Image 2025-10-16 at 14.17.19.jpeg",
+    "StarbucksSandalye2000/WhatsApp Image 2025-10-16 at 14.17.20 (1).jpeg",
+    "StarbucksSandalye2000/WhatsApp Image 2025-10-16 at 14.17.20.jpeg",
+    "StarbucksSandalye2000/WhatsApp Image 2025-10-16 at 14.17.21 (1).jpeg",
+    "StarbucksSandalye2000/WhatsApp Image 2025-10-16 at 14.17.21 (2).jpeg",
+    "StarbucksSandalye2000/WhatsApp Image 2025-10-16 at 14.17.21 (3).jpeg",
+    "StarbucksSandalye2000/WhatsApp Image 2025-10-16 at 14.17.21.jpeg"
+  ],
+  "VictorSandalye1250tl": [
+    "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (1).jpeg",
+    "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (2).jpeg",
+    "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (3).jpeg",
+    "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (4).jpeg",
+    "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47.jpeg",
+    "VictorSandalye1250tl/victor-sandalye-1.jpeg"
+  ],
+  "katlanabilirTakım1650tl": [
+    "katlanabilirTakım1650tl/WhatsApp Image 2025-10-16 at 14.18.17 (1).jpeg",
+    "katlanabilirTakım1650tl/WhatsApp Image 2025-10-16 at 14.18.17 (2).jpeg",
+    "katlanabilirTakım1650tl/WhatsApp Image 2025-10-16 at 14.18.17 (3).jpeg",
+    "katlanabilirTakım1650tl/WhatsApp Image 2025-10-16 at 14.18.17.jpeg"
+  ]
+};

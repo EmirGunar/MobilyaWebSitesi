@@ -169,6 +169,12 @@ const SlideInner = styled.div`
     text-align: center;
     justify-content: center;
     gap: 2rem;
+    padding: clamp(1.5rem, 4vw, 2.5rem);
+  }
+
+  @media (max-width: 480px) {
+    padding: clamp(1rem, 3vw, 1.5rem);
+    gap: 1.5rem;
   }
 `;
 
@@ -181,6 +187,10 @@ const SlideInfo = styled.div`
   @media (max-width: 900px) {
     max-width: 100%;
     text-align: center;
+  }
+
+  @media (max-width: 480px) {
+    gap: 0.8rem;
   }
 `;
 
@@ -231,10 +241,16 @@ const SlideTag = styled.span`
 `;
 
 const SlideTitle = styled.h1`
-  font-size: clamp(2.1rem, 5vw, 3.5rem);
+  font-size: clamp(1.8rem, 4vw, 3.5rem);
   line-height: 1.1;
   font-weight: 700;
   max-width: 540px;
+
+  @media (max-width: 480px) {
+    font-size: clamp(0.8rem, 3vw, 1.2rem);
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+  }
 `;
 
 const SlideText = styled.p`
@@ -259,14 +275,26 @@ const SlidePrice = styled.span`
   border: 1px solid rgba(255, 255, 255, 0.35);
   font-weight: 600;
   letter-spacing: 0.05em;
+
+  @media (max-width: 480px) {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
 `;
 
 const SlideActions = styled.div`
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem;
+  gap: 0.4rem;
+  align-items: center;
 
   @media (max-width: 900px) {
+    justify-content: center;
+    gap: 0.3rem;
+  }
+
+  @media (max-width: 480px) {
+    gap: 0.25rem;
     justify-content: center;
   }
 `;
@@ -290,6 +318,11 @@ const CTAButton = styled(Link)`
     transform: translateY(-2px);
     box-shadow: 0 18px 34px rgba(189, 140, 74, 0.45);
   }
+
+  @media (max-width: 480px) {
+    padding: 0.6rem 1.2rem;
+    font-size: 0.8rem;
+  }
 `;
 
 const SecondaryButton = styled(Link)`
@@ -309,6 +342,11 @@ const SecondaryButton = styled(Link)`
     transform: translateY(-2px);
     background: rgba(255, 255, 255, 0.25);
     color: white;
+  }
+
+  @media (max-width: 480px) {
+    padding: 0.6rem 1rem;
+    font-size: 0.8rem;
   }
 `;
 

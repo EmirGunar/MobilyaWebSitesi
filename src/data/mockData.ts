@@ -6,6 +6,12 @@ export const mockProducts: Product[] = [
     name: "Ahşap Masa 70x70",
     price: 2000,
     image: "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-1.jpeg",
+    images: [
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-1.jpeg",
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-2.jpeg",
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-3.jpeg",
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.55.jpeg"
+    ],
     description: "Kompakt alanlar için ideal olan 70x70 cm beyaz ahşap masa. Kaliteli tabla ve sağlam ayak yapısı ile uzun ömürlü kullanım sunar.",
     category: "yemek",
     inStock: true
@@ -84,6 +90,14 @@ export const mockProducts: Product[] = [
     name: "Victor Sandalye",
     price: 1450,
     image: "VictorSandalye1250tl/victor-sandalye-1.jpeg",
+    images: [
+      "VictorSandalye1250tl/victor-sandalye-1.jpeg",
+      "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (1).jpeg",
+      "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (2).jpeg",
+      "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (3).jpeg",
+      "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47 (4).jpeg",
+      "VictorSandalye1250tl/WhatsApp Image 2025-10-16 at 14.17.47.jpeg"
+    ],
     description: "Şık çizgilere sahip Victor sandalye, geniş oturum alanı ve metal ayak yapısı ile ofis ve salonlar için zarif bir seçenek sunar.",
     category: "ofis",
     inStock: true
@@ -111,6 +125,12 @@ export const mockProducts: Product[] = [
     name: "Ahşap Masa 70x120",
     price: 2500,
     image: "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-2.jpeg",
+    images: [
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-2.jpeg",
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-1.jpeg",
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/ahsap-masa-3.jpeg",
+      "AhsapMasa70x70-1500TL-70x120-2000TL-AhsapBeyazKoyuBozok/WhatsApp Image 2025-10-16 at 14.20.55.jpeg"
+    ],
     description: "Geniş aile sofraları için 70x120 cm ahşap masa. Ekstra alan sağlayan tabla yapısı ve dayanıklı çerçevesiyle kafe ve evler için ideal.",
     category: "yemek",
     inStock: true

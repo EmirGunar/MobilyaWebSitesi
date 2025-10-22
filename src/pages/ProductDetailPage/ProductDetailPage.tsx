@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import styled from 'styled-components';
 import { useCart } from '../../context/CartContext';
 import { mockProducts } from '../../data/mockData';
+import { imagesManifest } from '../../data/imagesManifest';
 import { buildImageUrl } from '../../utils/image';
 
 const PageContainer = styled.div`
@@ -227,6 +228,9 @@ const ProductDetailPage: React.FC = () => {
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   
   const product = mockProducts.find(p => p.id === Number(id));
+  const imagesFromManifest = product
+    ? imagesManifest[product.image.split('/')[0]]?.filter(img => img.includes(product.image.split('/')[0] + '/'))
+    : undefined;
 
   if (!product) {
     return (
@@ -262,12 +266,12 @@ const ProductDetailPage: React.FC = () => {
         <ImageSection>
           <ImageGallery>
             <MainImage
-              src={buildImageUrl(product.images?.[selectedImageIndex] || product.image)}
+              src={buildImageUrl((imagesFromManifest && imagesFromManifest[selectedImageIndex]) || product.images?.[selectedImageIndex] || product.image)}
               alt={product.name}
             />
-            {product.images && product.images.length > 1 && (
+            {(imagesFromManifest?.length || product.images?.length) ? (
               <ThumbnailContainer>
-                {product.images.map((image, index) => (
+                {(imagesFromManifest || product.images || [product.image]).map((image, index) => (
                   <Thumbnail
                     key={index}
                     src={buildImageUrl(image)}
@@ -277,7 +281,7 @@ const ProductDetailPage: React.FC = () => {
                   />
                 ))}
               </ThumbnailContainer>
-            )}
+            ) : null}
           </ImageGallery>
         </ImageSection>
 
