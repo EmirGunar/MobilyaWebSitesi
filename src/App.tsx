@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import styled from 'styled-components';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
+import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 import HomePage from './pages/HomePage/HomePage';
 import ProductsPage from './pages/ProductsPage/ProductsPage';
 import ProductDetailPage from './pages/ProductDetailPage/ProductDetailPage';
@@ -26,6 +27,7 @@ function App() {
     <CartProvider>
       <Router>
         <GlobalStyles />
+        <ScrollToTop />
         <AppContainer>
           <Header />
           <MainContent>
