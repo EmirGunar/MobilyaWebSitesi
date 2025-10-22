@@ -339,7 +339,7 @@ export const mockProducts: Product[] = [
     id: 38,
     name: "Compact Masa (İkili)",
     price: 6500,
-    image: "CompactMasaİkili/compactmasaikili.jpg",
+    image: "CompactMasaIkili/compactmasaikili.jpg",
     description: "İkili kompakt masa seti; kafe ve bahçeler için uzun ömürlü, şık çözüm.",
     category: "genel",
     inStock: true
