@@ -131,7 +131,7 @@ export const mockProducts: Product[] = [
     id: 15,
     name: "Cosmo Sandalye - Seri 2",
     price: 1800,
-    image: "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.52 (2).jpeg",
+    image: "CosmoSandalye1550tl/cosmo-sandalye-1.jpeg",
     description: "Yüksek yoğunluklu sünger oturum ve metal ayak kombinasyonu ile modern çizgilere sahip konforlu sandalye.",
     category: "yemek",
     inStock: true
@@ -140,7 +140,7 @@ export const mockProducts: Product[] = [
     id: 16,
     name: "Cosmo Sandalye - Seri 3",
     price: 1850,
-    image: "CosmoSandalye1550tl/WhatsApp Image 2025-10-16 at 14.16.52.jpeg",
+    image: "CosmoSandalye1550tl/cosmo-sandalye-1.jpeg",
     description: "Yüksek yoğunluklu sünger oturum ve metal ayak kombinasyonu ile modern çizgilere sahip konforlu sandalye.",
     category: "yemek",
     inStock: true
