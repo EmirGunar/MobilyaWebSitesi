@@ -212,8 +212,7 @@ const CartPage: React.FC = () => {
     }
   };
 
-  const shippingCost = total >= 500 ? 0 : 50;
-  const finalTotal = total + shippingCost;
+  const finalTotal = total;
 
   if (items.length === 0) {
     return (
@@ -270,15 +269,6 @@ const CartPage: React.FC = () => {
             <span>Ara Toplam:</span>
             <span>{total} TL</span>
           </SummaryRow>
-          <SummaryRow>
-            <span>Kargo:</span>
-            <span>{shippingCost === 0 ? 'Ücretsiz' : `${shippingCost} TL`}</span>
-          </SummaryRow>
-          {total < 500 && (
-            <p style={{ fontSize: '0.9rem', color: '#7f8c8d', margin: '0.5rem 0' }}>
-              500 TL ve üzeri alışverişlerde kargo ücretsiz!
-            </p>
-          )}
           <SummaryRow className="total">
             <span>Toplam:</span>
             <span>{finalTotal} TL</span>

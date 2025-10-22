@@ -284,8 +284,6 @@ const ProductDetailPage: React.FC = () => {
           <li>Ergonomik tasarım</li>
           <li>2 yıl garanti</li>
           <li>Kolay montaj</li>
-          <li>Ücretsiz kargo (500 TL üzeri)</li>
-          <li>14 gün iade garantisi</li>
         </ul>
       </ProductFeatures>
     </PageContainer>
